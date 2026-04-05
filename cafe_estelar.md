@@ -1,2 +1,2 @@
 Ingredientes: Granos de Saturno.
-Instrucciones: Hervir a 200 grados
+Instrucciones: Hervir a 250 grados
