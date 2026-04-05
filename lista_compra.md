@@ -1,2 +1,2 @@
-1. Oxígeno en lata
+1. Oxígeno EXTRA-puro
 2. Hidrógeno líquido
