@@ -1,6 +1,6 @@
 # 👨‍🚀 Recetario Galáctico de Sonia 🌌
 
-![Espacio](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXZueXpueXpueXpueXpueXpueXpueXpueXpueXpueXpueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKSjPqcKUIw49u8/giphy.gif)
+![Espacio]([https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXZueXpueXpueXpueXpueXpueXpueXpueXpueXpueXpueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKSjPqcKUIw49u8/giphy.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExamVreWMxYTBvZ2xtaGNtcXdubTR1ZzB5MnVibmZoNHJjN3l4c2ZvbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/n8dFdxuuxFkQgBSUIz/giphy.gif))
 > **Estado de la misión:** Explorando nuevos sabores en el cuadrante 4.
 
 ---
