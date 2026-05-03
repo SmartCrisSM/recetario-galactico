@@ -1,6 +1,6 @@
 # 👨‍🚀 Recetario Galáctico de Sonia 🌌
 
-!![Mi Foto](foto.gif)
+![Mi Foto](foto.gif)
 > **Estado de la misión:** Explorando nuevos sabores en el cuadrante 4.
 
 ---
