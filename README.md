@@ -1,7 +1,6 @@
 # 👨‍🚀 Recetario Galáctico de Sonia 🌌
 
-![Cohete](https://raw.githubusercontent.com/gist/SmartCrisSM/c6f788b7762637f94986/raw/rocket.gif)
-
+![Espacio](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXZueXpueXpueXpueXpueXpueXpueXpueXpueXpueXpueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKSjPqcKUIw49u8/giphy.gif)
 > **Estado de la misión:** Explorando nuevos sabores en el cuadrante 4.
 
 ---
