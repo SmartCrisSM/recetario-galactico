@@ -1,10 +1,19 @@
-# 🚀 Recetario Galáctico de Sonia
-Bienvenida a mi base de datos de cocina interespacial. Aquí guardo las mejores fórmulas para sobrevivir en el cosmos.
+# 👨‍🚀 Recetario Galáctico de Sonia 🌌
 
-## 🥤 Contenido actual
-* **Bebidas:** Zumos de Júpiter y Marte.
-* **Platos:** Pizza de Marte.
-* **Postres:** Mousse de nubes.
+![Espacio](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXZueXpueXpueXpueXpueXpueXpueXpueXpueXpueXpueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKSjPqcKUIw49u8/giphy.gif)
+
+> **Estado de la misión:** Explorando nuevos sabores en el cuadrante 4.
 
 ---
-*Hecho con amor y Git.*
+
+### 🥗 Menú de Hoy
+| Plato | Planeta de origen | Nivel de picante |
+| :--- | :--- | :--- |
+| Pizza Marte | Marte | 🔥🔥🔥 |
+| Zumo Júpiter | Júpiter | ❄️ |
+| Mousse Nubes | Venus | ✨ |
+
+### 🛠️ Herramientas utilizadas
+* **Editor:** Sublime Text
+* **Control de versiones:** Git & GitHub
+* **Combustible:** Café estelar ☕
